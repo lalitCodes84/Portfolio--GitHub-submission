@@ -361,7 +361,7 @@ img {
 
 .button {
   display: inline-block;
-  background-color: var(--first-color);
+  background-color: #ed0331;
   color: #ffff;
   padding: 1rem;
   border-radius: 0.5rem;
@@ -508,7 +508,7 @@ img {
 }
 
 .skills__bar {
-  background-color: var(--first-color-lighter);
+  background-color: #ed0331;
 }
 
 .skills__percentage {
@@ -849,7 +849,7 @@ img {
 
 .contact__icon {
   font-size: 1.5rem;
-  color: var(--first-color);
+  color: #ed0331;
   margin-right: var(--mb-0-75);
 }
 
@@ -1209,7 +1209,7 @@ img {
       background: none;
     }
     .project__container {
-      background-color: var(--first-color-second);
+      background-color: #ed0331;
       border-radius: 1rem;
       padding: 3rem 2.5rem 0;
       grid-template-columns: 1fr max-content;
@@ -1222,6 +1222,7 @@ img {
       grid-template-columns: repeat(3, 1fr);
     }
     .footer__bg {
+      background-color: #ed0331;
       padding: 3rem 0 3.5rem;
     }
 
