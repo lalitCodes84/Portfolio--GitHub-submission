@@ -240,7 +240,7 @@ img {
 }
 
 .nav__link:hover {
-  color: var(--first-color);
+  color: #ed0331;
 }
 
 .nav__icon {
